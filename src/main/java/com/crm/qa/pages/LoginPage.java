@@ -8,7 +8,11 @@ public class LoginPage extends TestBase{
 	{
 	super();	
 	}
-	
+	public void loginTest()
+	{
+		System.out.println("Login Page logintest method");
+		
+	}
 	
 
 }
